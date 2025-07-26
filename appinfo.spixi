@@ -1,0 +1,6 @@
+name=Spixi Poker
+id=spixi.poker
+version=1.0.0
+description=A minimal Texas Hold'em Poker game for 2 players built using Spixi Mini Apps SDK.
+author=Spixi User
+entry=index.html

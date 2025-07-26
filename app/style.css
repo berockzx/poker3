@@ -1,0 +1,14 @@
+body {
+    font-family: monospace;
+    background-color: #115533;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+#game-log {
+    border: 1px solid #fff;
+    padding: 10px;
+    margin: 10px auto;
+    width: 300px;
+    background: #223322;
+}
